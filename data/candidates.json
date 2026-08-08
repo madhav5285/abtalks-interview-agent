@@ -1,0 +1,12 @@
+Set-Content -Path data/candidates.json -Value '[
+  {
+    "candidateId": "cand-001",
+    "name": "Madhav Sharma",
+    "completedMissions": [5, 12, 19, 27],
+    "skippedTopics": ["Fine-Tuning LLMs"],
+    "learningSignals": {
+      "strength": "Agentic Workflows and System Architecture",
+      "needsImprovement": "Vector indexing trade-offs"
+    }
+  }
+]'
