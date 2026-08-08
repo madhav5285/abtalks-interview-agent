@@ -1,0 +1,10 @@
+{
+  "program": "ABTalks AI Cohort",
+  "duration_days": 31,
+  "topics": [
+    {"day": 5, "module": "Prompt Engineering", "topic": "Few-Shot & Chain-of-Thought", "learning_objectives": ["CoT reasoning", "JSON schemas"]},
+    {"day": 12, "module": "RAG", "topic": "Chunking & Vector Search", "learning_objectives": ["Chunk overlap", "Hybrid search"]},
+    {"day": 19, "module": "Agentic AI", "topic": "ReAct Framework", "learning_objectives": ["Execution loops", "Stateful memory"]},
+    {"day": 27, "module": "Production Systems", "topic": "MCP & Deployment", "learning_objectives": ["MCP servers", "Streaming"]}
+  ]
+}

@@ -1,0 +1,9 @@
+[
+  {
+    "candidateId": "cand-001",
+    "name": "Madhav Sharma",
+    "completedMissions": [5, 12, 19, 27],
+    "skippedTopics": ["Fine-Tuning LLMs"],
+    "learningSignals": { "strength": "Agentic Workflows", "needsImprovement": "Vector indexing" }
+  }
+]
